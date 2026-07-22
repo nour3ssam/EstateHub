@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="EstateHub.API/EstateHub.API.csproj" />
+  <Project Path="EstateHub.Application/EstateHub.Application.csproj" />
+  <Project Path="EstateHub.Domain/EstateHub.Domain.csproj" />
+  <Project Path="EstateHub.Infrastructure/EstateHub.Infrastructure.csproj" />
+  <Project Path="EstateHub.Persistence/EstateHub.Persistence.csproj" />
+</Solution>
