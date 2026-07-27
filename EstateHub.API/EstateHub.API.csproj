@@ -14,4 +14,9 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EstateHub.Infrastructure\EstateHub.Infrastructure.csproj" />
+    <ProjectReference Include="..\EstateHub.Persistence\EstateHub.Persistence.csproj" />
+  </ItemGroup>
+
 </Project>
