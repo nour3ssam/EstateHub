@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EstateHub.Application\EstateHub.Application.csproj" />
+  </ItemGroup>
+
 </Project>
+    
